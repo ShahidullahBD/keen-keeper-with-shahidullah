@@ -4,6 +4,7 @@ import HomePage from "../pages/homePage/HomePage";
 import Timeline from "../pages/timelinePage/Timeline";
 import State from "../pages/statePage/State";
 import FriendDetails from "../components/homepage/FriendDetails";
+import NotFoundPage from "../pages/notFoundPage/notFoundPage";
 
 export const router = createBrowserRouter([
 
@@ -28,7 +29,8 @@ export const router = createBrowserRouter([
                 element: <State></State>
             },
 
-        ]
+        ],
+        errorElement: <NotFoundPage></NotFoundPage>
     }
 
 ]);
