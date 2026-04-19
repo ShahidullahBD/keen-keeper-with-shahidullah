@@ -20,7 +20,14 @@ const FooterPage = () => {
                     <img src={twtlogo} alt="Tweter Logo" />
                 </div>
             </div>
-            <div></div>
+            <div className='flex justify-between w-[90%] mx-auto'>
+                <p className='text-white'>© 2026 KeenKeeper. All rights reserved.</p>
+                <div className='flex gap-5 text-right text-white'>
+                    <p>Privecy Policy</p>
+                    <p>Terms of Service</p>
+                    <p>Cookies</p>
+                </div>
+            </div>
         </div>
     );
 };
