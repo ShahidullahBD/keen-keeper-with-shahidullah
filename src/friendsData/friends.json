@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha Rahman",
+    "picture": "https://randomuser.me/api/portraits/women/21.jpg",
+    "email": "ayesha.rahman@example.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Met during university. Loves traveling and photography.",
+    "goal": 14,
+    "next_due_date": "2026-04-10"
+  },
+  {
+    "id": 2,
+    "name": "Min-Jun Park",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "minjun.park@example.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["work", "teammate"],
+    "bio": "Colleague at previous company. Enjoys coding and gaming.",
+    "goal": 10,
+    "next_due_date": "2026-04-23"
+  },
+  {
+    "id": 3,
+    "name": "Rahim Uddin",
+    "picture": "https://randomuser.me/api/portraits/men/45.jpg",
+    "email": "rahim.uddin@example.com",
+    "days_since_contact": 30,
+    "status": "overdue",
+    "tags": ["school", "best friend"],
+    "bio": "Childhood friend. We used to play cricket every evening.",
+    "goal": 7,
+    "next_due_date": "2026-03-25"
+  },
+  {
+    "id": 4,
+    "name": "Sonia Akter",
+    "picture": "https://randomuser.me/api/portraits/women/55.jpg",
+    "email": "sonia.akter@example.com",
+    "days_since_contact": 9,
+    "status": "on-track",
+    "tags": ["family", "cousin"],
+    "bio": "My cousin. Very supportive and caring.",
+    "goal": 14,
+    "next_due_date": "2026-04-21"
+  },
+  {
+    "id": 5,
+    "name": "David Smith",
+    "picture": "https://randomuser.me/api/portraits/men/60.jpg",
+    "email": "david.smith@example.com",
+    "days_since_contact": 14,
+    "status": "due",
+    "tags": ["gym", "fitness buddy"],
+    "bio": "Met at the gym. Keeps me motivated to stay fit.",
+    "goal": 14,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 6,
+    "name": "Fatima Noor",
+    "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "email": "fatima.noor@example.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["online", "developer friend"],
+    "bio": "Met through a coding community. Loves JavaScript.",
+    "goal": 10,
+    "next_due_date": "2026-04-26"
+  },
+  {
+    "id": 7,
+    "name": "Jin-Woo Lee",
+    "picture": "https://randomuser.me/api/portraits/men/12.jpg",
+    "email": "jinwoo.lee@example.com",
+    "days_since_contact": 20,
+    "status": "overdue",
+    "tags": ["neighbor", "casual friend"],
+    "bio": "Neighbor who enjoys weekend football matches.",
+    "goal": 14,
+    "next_due_date": "2026-04-08"
+  },
+  {
+    "id": 8,
+    "name": "Emily Johnson",
+    "picture": "https://randomuser.me/api/portraits/women/33.jpg",
+    "email": "emily.johnson@example.com",
+    "days_since_contact": 11,
+    "status": "due",
+    "tags": ["travel", "friend"],
+    "bio": "Travel buddy from a trip to Thailand. Loves beaches.",
+    "goal": 10,
+    "next_due_date": "2026-04-19"
+  }
+]
